@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codejoygirl
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning javascript and React
+- 👀 I am Software Engineer
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me :08166710953
 
